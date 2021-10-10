@@ -1,7 +1,7 @@
 # Election_Analysis
 **Overview of the Election Audit**
   
-The purpose of this assignment was to analyze the largest voter counts by county and cadidates. A cadidate record was created that demonstrated the total votes in  the election. Each cadidate's total votes and percentage along with the winner of the election, the winning vote count and the winning percentage of votes. In      addition, a county record was also created, where each county's total vote count was presented as well as each county's percentage of total votes along with the county with the largest number of voters. Data was pulled in the script using a election_results.csv file. 
+The purpose of this assignment was to analyze the largest voter counts by county and cadidates. A cadidate record was created that demonstrated the total votes in  the election. Each cadidate's total votes and percentage along with the winner of the election was presented in the analysis.text file. In addition, a county record was also created, where each county's total vote count was presented as well as each county's percentage of total votes along with the county with the largest number of voters. Data was pulled in the script using a election_results.csv file. 
 
 **Election Audit Results**
 
