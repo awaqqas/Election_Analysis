@@ -14,7 +14,15 @@ The purpose of this assignment was to analyze the largest voter counts by county
     
 While, counties varied significantly in the election results, candidate results were just as scattered. Amongst the candidates, Diana DeGette recieved 73.8% of the total votes for a toal of 272,892. Charles Casper Stockham recieved 23.0% of the votes for a toal of 85,213 and lastly Raymon Anthony Doane recieved 3.1%  of the votes for a toal of 11,606 votes. 
     - Indubitably Diana DeGette won the elections with 272,892 making up 73.8% of the total votes. 
-			<img width="1420" alt="Screen Shot 2021-10-10 at 1 53 49 AM" src="https://user-images.githubusercontent.com/90429568/136684279-ebf49f5b-5d05-4b65-9d50-46499e354ac4.png">
+    
+ 
+ **Candidate and county results printed on both the terminal and .txt file.**
+ 
+    
+<img width="1420" alt="Screen Shot 2021-10-10 at 1 53 49 AM" src="https://user-images.githubusercontent.com/90429568/136684279-ebf49f5b-5d05-4b65-9d50-46499e354ac4.png">
+
+<img width="1420" alt="Screen Shot 2021-10-10 at 2 12 44 AM" src="https://user-images.githubusercontent.com/90429568/136684810-c8001efb-4f5f-45c6-b9ab-c13b4159e02f.png">
+
 
     
 **Election Audit Summary**
