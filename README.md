@@ -21,7 +21,8 @@ While, counties varied significantly in the election results, candidate results 
     
 <img width="1420" alt="Screen Shot 2021-10-10 at 1 53 49 AM" src="https://user-images.githubusercontent.com/90429568/136684279-ebf49f5b-5d05-4b65-9d50-46499e354ac4.png">
 
-<img width="1420" alt="Screen Shot 2021-10-10 at 2 12 44 AM" src="https://user-images.githubusercontent.com/90429568/136684810-c8001efb-4f5f-45c6-b9ab-c13b4159e02f.png">
+<img width="1420" alt="Screen Shot 2021-10-10 at 2 18 05 AM" src="https://user-images.githubusercontent.com/90429568/136684944-c951f6d6-78d8-4bd7-b1fb-3cc064db0b4d.png">
+
 
 
     
